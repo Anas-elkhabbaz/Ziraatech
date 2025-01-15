@@ -1,0 +1,10 @@
+numpy
+streamlit
+transformers
+sounddevice
+pinecone-client
+huggingface-hub
+sentence-transformers
+requests
+torch
+pymongo
